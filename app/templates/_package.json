@@ -1,0 +1,14 @@
+{
+  "name": "ScrapingProject",
+  "version": "0.0.0",
+  "description": "Noodle project for web scraping",
+  "license": "MIT",
+  "main": "scrape.js",
+  "author": {},
+  "dependencies": {
+    "underscore": "~1.7.0",
+    "q": "~1.1.2",
+    "noodlejs": "0.3.1",
+    "request": "~2.51.0"
+  }
+}
