@@ -1,4 +1,4 @@
-# generator-noodle [![Build Status](https://secure.travis-ci.org/aj-liptak/generator-noodle.png?branch=master)](https://travis-ci.org/aj-liptak/generator-noodle)
+# generator-noodle
 
 > [Yeoman](http://yeoman.io) generator for web scraping using the noodle.js library
 
