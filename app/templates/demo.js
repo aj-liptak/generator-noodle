@@ -1,6 +1,6 @@
 (function(){
   exports.scrape = function(){
-    var noodle = require('node-noodle');
+    var noodle = require('noodle-node');
     var _ = require('underscore');
     var q = require('q');
     var service = require('../service');
