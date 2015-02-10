@@ -72,6 +72,6 @@ module.exports = yeoman.generators.Base.extend({
       }
     });
 
-    this.npmInstall(['q', 'underscore', 'request', 'noodlejs']);
+    this.npmInstall(['q', 'underscore', 'request', 'noodle-node']);
   }
 });
