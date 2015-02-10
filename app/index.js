@@ -42,6 +42,10 @@ module.exports = yeoman.generators.Base.extend({
         this.destinationPath('scrape.js')
       );
       this.fs.copy(
+        this.templatePath('service.js'),
+        this.destinationPath('service.js')
+      );
+      this.fs.copy(
         this.templatePath('demo.js'),
         this.destinationPath('/sites/demo.js')
       );
